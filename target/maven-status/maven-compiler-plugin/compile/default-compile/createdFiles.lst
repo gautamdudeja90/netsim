@@ -1,0 +1,6 @@
+com/feedzai/netsim/engine/NetworkPath.class
+com/feedzai/netsim/engine/Nodes.class
+com/feedzai/netsim/example/Main.class
+com/feedzai/netsim/engine/NodeConnection.class
+com/feedzai/netsim/engine/ConnectionComparator.class
+com/feedzai/netsim/engine/Network.class
